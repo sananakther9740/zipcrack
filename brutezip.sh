@@ -1,5 +1,5 @@
 #!/bin/bash
-# ig: @thelinuxchoice
+# ig: @sananakther9740
 default_wordlist="password.lst"
 default_threads="10"
 read -p "File to crack: " file
